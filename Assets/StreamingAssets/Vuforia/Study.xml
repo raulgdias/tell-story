@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="minions" size="0.250000 0.130794" />
+    <ImageTarget name="forky" size="0.250000 0.140625" />
+    <ImageTarget name="elsa" size="0.250000 0.166534" />
+  </Tracking>
+</QCARConfig>
